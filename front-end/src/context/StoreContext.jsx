@@ -1,6 +1,5 @@
 import { createContext, useEffect, useState } from "react";
 import axios from 'axios';
-// import { food_list } from "../assets/assets";
 
 export const StoreContext = createContext(null);
 
